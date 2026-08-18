@@ -24,9 +24,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.38"
-     inkscape:cx="50"
-     inkscape:cy="143.42105"
+     inkscape:zoom="0.53740115"
+     inkscape:cx="476.36667"
+     inkscape:cy="386.11752"
      inkscape:window-width="1366"
      inkscape:window-height="705"
      inkscape:window-x="-8"
@@ -447,7 +447,13 @@
        y2="16.782953" /></defs><g
      inkscape:label="Camada 1"
      inkscape:groupmode="layer"
-     id="layer1"><path
+     id="layer1"><rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#ff6600;stroke-width:0.216468;stroke-dasharray:none;stroke-opacity:1"
+       id="rect157"
+       width="211.7541"
+       height="191.56822"
+       x="-1.5012817"
+       y="-1.0089425" /><path
        style="fill:#ff0000;fill-opacity:1;stroke-width:0.201819"
        id="path17"
        sodipodi:type="arc"
@@ -3695,7 +3701,7 @@
          x="46.925518"
          y="92.240845">PENTAGON</tspan></text><text
        xml:space="preserve"
-       style="font-size:3.175px;writing-mode:lr-tb;direction:ltr;white-space:pre;inline-size:18.5385;fill:#9955ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1"
+       style="font-size:3.175px;writing-mode:lr-tb;direction:ltr;white-space:pre;inline-size:18.5385;display:inline;fill:#9955ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1"
        x="95.537903"
        y="88.483734"
        id="text150"
